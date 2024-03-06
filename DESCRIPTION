@@ -25,3 +25,5 @@ Imports:
   lubridate,
   ggrepel
 LazyData: true
+URL: https://github.com/mfraser3/Fraser.Baseball
+BugReports: https://github.com/mfraser3/Fraser.Baseball/issues
