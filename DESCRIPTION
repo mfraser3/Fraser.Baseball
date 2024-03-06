@@ -1,0 +1,27 @@
+Package: Fraser.Baseball
+Type: Package
+Title: Analysis of Baseball Data
+Version: 0.1.0
+Author: Michael Fraser
+Maintainer: Michael Fraser <michael.fraser@cpcgene.com>
+Description: Various functions for baseball analytics.
+License: GPL-3
+Encoding: UTF-8
+Imports:
+  Fraser.Tools.Plotting,
+  ggplot2,
+  dplyr,
+  Lahman,
+  retrosheet,
+  patchwork,
+  baseballDBR,
+  teamcolors,
+  baseballr,
+  stringr,
+  rvest,
+  scales,
+  RMariaDB,
+  DBI,
+  lubridate,
+  ggrepel
+LazyData: true
